@@ -97,13 +97,13 @@ Turtle-RH/
 
 ### 🛠️ Tecnologias Utilizadas
 
-| Categoria               | Tecnologias      |
-| :---------------------- | :--------------- |
-| Automação               | n8n              |
-| Banco de Dados          | MySQL (Railway)  |
-| Comunicação             | Telegram Bot API |
-| Inteligência Artificial | LLM              |
-| Versionamento           | Git & GitHub     |
+| Categoria               | Tecnologias               |
+| :---------------------- | :---------------------    |
+| Automação               | n8n                       |
+| Banco de Dados          | MySQL (Railway)           |
+| Comunicação             | Telegram Bot API          |
+| Inteligência Artificial | Cohere, RAG, Agentes de IA|
+| Versionamento           | Git & GitHub              |
 
 ---
 
